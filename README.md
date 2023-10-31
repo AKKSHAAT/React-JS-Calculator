@@ -23,4 +23,4 @@
 ```
     
 ### Screenshot
-![My Screenshot](https://github.com/AKKSHAAT/React-JS-Calculator/blob/master/public/cal.png?raw=True)
+![My Screenshot](https://github.com/AKKSHAAT/React-JS-Calculator/blob/master/public/cal.png)
